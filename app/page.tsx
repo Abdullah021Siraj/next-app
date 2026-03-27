@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation
+            Get busy living, or get busy dying
           </a>
         </div>
       </main>
